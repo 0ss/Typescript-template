@@ -1,4 +1,0 @@
-name = "api-staging"
-main = "./index.ts"
-account_id = "bdde313cd6a235c321ff9463ccb662cb"
-compatibility_date = "2023-01-27"
